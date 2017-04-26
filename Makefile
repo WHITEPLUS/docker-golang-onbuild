@@ -1,6 +1,6 @@
 NAME      := golang-onbuild
 REGISTRY  := whiteplus/$(NAME)
-VERSION   := 1.8-jessie
+VERSION   := 1.8.1-jessie
 
 .PHONY: build tag push
 
